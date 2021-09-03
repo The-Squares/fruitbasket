@@ -7,6 +7,8 @@ requirements:
 3. yarn
    - run `npm i -g yarn` after installing nodejs
 
+run `yarn` in this project's directory
+
 open the android folder in android studio and wait for it to build
 
 install an android emulator
