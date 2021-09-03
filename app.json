@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fruitsbasket",
+    "slug": "fruitsbasket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fruitsbasket"
+}
