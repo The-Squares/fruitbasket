@@ -1,11 +1,10 @@
 {
   "expo": {
     "name": "fruitsbasket",
+    "entryPoint": "./src/index.js",
     "slug": "fruitsbasket",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "fruitsbasket"
 }
