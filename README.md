@@ -6,6 +6,8 @@ requirements:
 2. android studio
 3. yarn
    - run `npm i -g yarn` in the terminal after installing nodejs
+4. react-native
+   - run `npm i -g react-native` in the terminal after installing yarn
 
 run `yarn` in this project's terminal directory
 
